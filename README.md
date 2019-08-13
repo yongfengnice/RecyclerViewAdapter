@@ -9,4 +9,4 @@ Usage:
     4. recyclerView.adapter = adapter
     
 
-!['2019-08-13_085821.png']('./arts/2019-08-13_085821.png')
+!['2019-08-13_085821.png'](/arts/2019-08-13_085821.png)
